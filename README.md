@@ -45,7 +45,7 @@ cp scripts/lib/config.sh.example scripts/lib/config.sh
 ./scripts/crear-cliente.sh client-name
 ```
 
-## 🎬 Live Demo    <--- AQUÍ EMPIEZA LO NUEVO
+## 🎬 Live Demo
 
 Watch the complete automated deployment process:
 
