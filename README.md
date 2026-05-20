@@ -45,6 +45,37 @@ cp scripts/lib/config.sh.example scripts/lib/config.sh
 ./scripts/crear-cliente.sh client-name
 ```
 
+## 🎬 Live Demo    <--- AQUÍ EMPIEZA LO NUEVO
+
+Watch the complete automated deployment process:
+
+![Automated Deployment](docs/screenshots/cybershield-soc-automation.gif)
+
+**What you see:** Complete client creation from command execution to production-ready stack in **~3 minutes** ⚡
+
+---
+
+## 📸 Production Environment
+
+### Wazuh Dashboard - Security Monitoring
+![Wazuh Dashboard](docs/screenshots/wazuh-dashboard.png)
+
+*Real-time security event monitoring with active agents across multiple clients*
+
+### Docker Orchestration - Multi-Client Deployment
+![Docker Containers](docs/screenshots/docker-containers.gif)
+
+*15 containers running across 5 client stacks with automatic resource management*
+
+### SSL Automation - Nginx Proxy Manager
+![NPM Proxies](docs/screenshots/npm-proxies.png)
+
+*Automated Let's Encrypt SSL configuration for 5 client subdomains*
+
+📁 **[View complete visual documentation →](docs/SCREENSHOTS.md)**
+
+---
+
 ## 🔧 Key Technical Challenges Solved
 
 ### Wazuh Multi-Tenancy Bug
