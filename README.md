@@ -103,5 +103,5 @@ MIT License
 
 ## 📧 Contact
 
-- LinkedIn: [Your LinkedIn]
-- Email: [Your Email]
+- LinkedIn: [linkedin.com/in/ingwaltergomez](https://linkedin.com/in/ingwaltergomez)
+- Email: wgomez@ingwaltergomez.com
