@@ -1,0 +1,23 @@
+#!/bin/bash
+# CONFIG.SH - CyberShield SOC Configuration Variables
+# Copy this file to config.sh and fill with your real credentials
+
+# NPM (Nginx Proxy Manager)
+export NPM_USER="your-email@example.com"
+export NPM_PASS="your-npm-password"
+export NPM_DOMAIN_BASE="soc.yourdomain.com"
+export NPM_API_URL="http://localhost:81"
+export NPM_WILDCARD_CERT_ID="1"
+
+# Wazuh Server
+export WAZUH_SERVER_IP="YOUR_SERVER_IP"
+export WAZUH_INDEXER_URL="https://YOUR_SERVER_IP:9200"
+export WAZUH_INDEXER_USER="admin"
+export WAZUH_INDEXER_PASS="YourSecurePassword"
+
+# Contact & Billing
+export CONTACT_EMAIL="contact@yourdomain.com"
+
+# PATHS
+export CONFIG_DIR="/opt/cybershield-soc-wazuh414"
+export CLIENTS_DIR="${CONFIG_DIR}/stacks"

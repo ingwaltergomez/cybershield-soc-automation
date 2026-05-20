@@ -1,0 +1,24 @@
+# Credentials
+config.sh
+*.key
+*.pem
+*_INFO.txt
+*.env
+
+# Sensitive data
+credentials/
+secrets/
+passwords.txt
+
+# Docker
+volumes/
+data/
+logs/
+
+# OS files
+.DS_Store
+*~
+
+# Backups
+*.backup
+*.bak
