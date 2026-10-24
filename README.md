@@ -6,7 +6,7 @@
 
 Creates isolated Wazuh stacks (Manager + Indexer + Dashboard) with automatic SSL/DNS configuration in under 3 minutes.
 
-**Key Achievement:** Reduced manual deployment time from 2-3 hours to 3 minutes (95% reduction).
+**Key Achievement:** Reduced manual deployment time from 2-3 hours to 3 minutes (95% reduction). Built to make enterprise-grade security monitoring accessible for small and mid-sized businesses without commercial SIEM licensing costs.
 
 ## 🏗️ Architecture
 
@@ -104,17 +104,6 @@ Skills developed:
 - Security architecture design
 - Problem solving & root cause analysis
 
-## 🚫 Project Status
-
-**Status:** Closed after 5 months of development
-
-**Why?** Market analysis revealed:
-- Single-person operation cannot deliver true 24/7 SOC
-- TAM too small for venture-scale returns
-- Better ROI via consulting/employment
-
-**Key lesson:** Technical success ≠ Business viability
-
 ## 📊 Project Outcomes
 
 | Metric | Before | After | Improvement |
@@ -123,16 +112,12 @@ Skills developed:
 | Error rate | ~20% | <1% | 95% |
 | Cost per client | $5K-15K/mo | $249/mo | 95% |
 
-## 🤝 Credits
-
-Built by Walter Gómez Cruz  
-ISO 27001 Lead Implementer | DevSecOps Engineer
-
-## 📝 License
-
-MIT License
-
 ## 📧 Contact
 
 - LinkedIn: [linkedin.com/in/ingwaltergomez](https://linkedin.com/in/ingwaltergomez)
 - Email: wgomez@ingwaltergomez.com
+- Medium: [medium.com/@waltgomez](https://medium.com/@waltgomez)
+
+## 📝 License
+
+MIT License
